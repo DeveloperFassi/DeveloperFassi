@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @DeveloperFassi
-- 👀 I’m interested in Java Spring and Angular;
-- 🌱 I’m currently working as a Java designer and developer
-- 💞️ I’m looking to collaborate on Java and Angular project as a freelance, remotly.
+Java/DevOps
+Ethical hacker
 
 <!---
 DeveloperFassi/DeveloperFassi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
